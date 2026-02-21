@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1771607463 source:c:\users\sergi\onedrive\desktop\ejcalcularprom\main.c
+	<stdio.h>
+	<stdlib.h>
+

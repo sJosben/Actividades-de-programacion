@@ -2,18 +2,6 @@
 #include <stdlib.h>
 int main()
 {
-    /*FUNCIONES: Son elementos basicos y principales de la programacion estructurada
-    ,las funciones permiten dividir un programa grande en partes mas pequeñas y gestionables
-    para declarar funciones se declaran asi:
-
-    tipo nombre_funcion(parametros)
-    {
-        instrucciones;
-        return valor;
-    }
-    */
-
-
     //FUNCIONES
     int suma(int a, int b)
     {
